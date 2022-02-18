@@ -1,4 +1,6 @@
 # Litmus UI
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FS-ayanide%2Flitmus-ui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FS-ayanide%2Flitmus-ui?ref=badge_shield)
+
 
 React component library for faster and easier web development. Build your own design system, or start with Litmus UI.
 
@@ -145,3 +147,7 @@ $ npm publish
 > Note: You will have to manually bump your versions in the `package.json` file.
 
 > Note: You will need to update the package.json name property with the name your library will be using on npm.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FS-ayanide%2Flitmus-ui.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FS-ayanide%2Flitmus-ui?ref=badge_large)
